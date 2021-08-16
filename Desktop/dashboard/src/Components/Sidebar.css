@@ -1,0 +1,17 @@
+.logo {
+    height: 0px;
+    margin: 0px;
+    /* background: "#041528";  */
+ } 
+
+  .site-layout .site-layout-background {
+    background: "#041528";
+    position: absolute;
+  }
+    
+body{
+  height: 100%;
+  /* position: fixed; */
+}
+    
+    

@@ -1,0 +1,41 @@
+body{
+    /* background-color: #041528; */
+    /* overflow: scroll; */
+}
+
+
+.Card{
+    /* width: 500px;
+    height: 400px; */
+    /* background-color: rgb(204, 204, 204); */
+    padding: 20px;
+    border-color: transparent;
+    /* justify-content: space-between; */
+}
+
+.ant-list-item-meta-title > a {
+    color: rgb(130, 135, 139);
+  }
+  .ant-list-item-meta-description > a {
+    color:  rgb(130, 135, 139);
+  }
+
+
+  .dark-mode {
+  background-color: #000E1E;
+  color: #999;
+  height: 100%;
+  transition: background-color  ease-in-out;
+}
+
+.light-mode {
+  background-color: #fff;
+  color: #333;
+  height: 100%;
+  transition: background-color 0.25s ease-in-out;
+} 
+
+
+.element.style {
+  gap: 98px;
+}
